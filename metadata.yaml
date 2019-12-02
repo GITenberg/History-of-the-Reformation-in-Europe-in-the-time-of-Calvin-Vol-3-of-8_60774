@@ -1,0 +1,33 @@
+_repo: History-of-the-Reformation-in-Europe-in-the-time-of-Calvin-Vol-3-of-8_60774
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Merle d'Aubigné, J. H. (Jean Henri)
+    aliases:
+    - d'Aubigné, Merle
+    - d'Aubigne, Merle
+    - Aubigné, J. H. Merle d' (Jean Henri Merle)
+    - D'Aubigné, Jean Henri Merle
+    - D'Aubigné, J. H. Merle (Jean Henri Merle)
+    birthdate: 1794
+    deathdate: 1872
+    gutenberg_agent_id: '40857'
+    url: http://www.gutenberg.org/2009/agents/40857
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean-Henri_Merle_d%27Aubign%C3%A9
+    - https://fr.wikipedia.org/wiki/Jean-Henri_Merle_d%27Aubign%C3%A9
+description: ''
+gutenberg_issued: '2019-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60774'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Reformation'
+- GITenberg
+title: History of the Reformation in Europe in the time of Calvin. Vol. 3 (of 8)
+url: http://www.gutenberg.org/ebooks/60774
